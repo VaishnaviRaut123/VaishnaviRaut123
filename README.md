@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Vaishnavi Raut</h1>
+<h1 align="center">Hi 👋, I'm Vaishnavi Raut , a twenty years old girl B.E in Computer Science and Engineering. I am interested in Cloud Computing and do not stop exploring Cloud more and more while practising coding!Gold Tier #IamRemarkable Facilitator @#IamRemarkable, coding circle cordinator  @Overall Coordination PICT PCSB,  @Technical Club and looking forward to more such opportunities.
+
+
+
+Check out my Cloud Skills and view my projects with the Challenge @#100DaysOfCloud
+
+
+
+</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnaviraut123&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnaviraut123" /> </p>
