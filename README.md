@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vaishnavi Raut , a twenty years old girl B.E in Computer Science and Engineering. I am interested in Cloud Computing and do not stop exploring Cloud more and more while practising coding!Gold Tier #IamRemarkable Facilitator @#IamRemarkable, coding circle cordinator  @Overall Coordination PICT PCSB,  @Technical Club and looking forward to more such opportunities.
+I'm <b> *Vaishnavi Raut* </b>, a twenty years old girl  B.E in Computer Engineering. I am interested in Cloud Computing and do not stop exploring Cloud more and more while practising coding!  Gold Tier #IamRemarkable Facilitator [@#IamRemarkable](https://iamremarkable.withgoogle.com/),looking forward to more such opportunities. 
 
+<img align="left" alt="ME" src="https://user-images.githubusercontent.com/69337392/123616629-181e6700-d824-11eb-82d2-4c16e64903a9.png">
+<p align="center"/>
 
 
 Check out my Cloud Skills and view my projects with the Challenge @#100DaysOfCloud
@@ -15,7 +17,7 @@ Check out my Cloud Skills and view my projects with the Challenge @#100DaysOfClo
 
 - 🔭 I’m currently working on **ML And blockchain**
 
-- 🌱 I’m currently learning **HTML, CSS, JAVA,MERN STACK, JUPITER.**
+- 🌱 I’m currently learning **HTML, CSS, JAVA,MERN STACK, JUPITER.CLOUD, **
 
 - 👯 I’m looking to collaborate on **Open source**
 
